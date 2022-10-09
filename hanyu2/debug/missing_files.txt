@@ -1,0 +1,3 @@
+www.repository.voxforge1.org/downloads/en/Trunk/Audio/Main/16kHz_16bit/Xeddius-20140130-cli.tgz
+www.repository.voxforge1.org/downloads/fr/Trunk/Audio/Main/16kHz_16bit/wwwdarnoxfr-20110510-hqo.tgz
+www.repository.voxforge1.org/downloads/fr/Trunk/Audio/Main/16kHz_16bit/wwwdarnoxfr-20110510-kfa.tgz
